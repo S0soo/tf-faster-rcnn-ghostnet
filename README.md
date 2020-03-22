@@ -36,9 +36,12 @@ run train-ghostnet.py to train
 run test-ghostnet.py to test  
 
 ## Results
-batch 128, iteration 100000 results
+In my own dataset, batch=128, iteration=100000, results:
 
 ![result](https://github.com/S0soo/tf-faster-rcnn-ghostnet/blob/master/output/000548.jpg)  
+
+The results are not ideal, and I will continue to search for more suitable hyperparameters.   
+GhostNet is tiny.
 
 
 
