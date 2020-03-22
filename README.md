@@ -22,7 +22,7 @@ run test-ghostnet.py to test
 
 ## Results
 ![result](https://github.com/S0soo/tf-faster-rcnn-ghostnet/blob/master/output/000548.jpg)  
-<img src='https://github.com/S0soo/tf-faster-rcnn-ghostnet/blob/master/output/000548.jpg', width='375', alt='天气'>
+
 
 
 
