@@ -9,7 +9,7 @@ Faster R-CNN code from [dBeker](https://github.com/dBeker/Faster-RCNN-TensorFlow
 
 GhostNet code from [huawei-noah](https://github.com/huawei-noah/ghostnet)  
 
-This code is only for learning and communication, it is not certain that the code is completely correct. Due to limited computing resources, no suitable hyperparameters were found, and results did not perform well.
+This Demo is only for learning and communication, it is not certain that the code is completely correct. Due to limited computing resources, no suitable hyperparameters were found, and results did not perform well.
 
 ## Dependence
 python 3.6  
