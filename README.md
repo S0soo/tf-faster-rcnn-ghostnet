@@ -15,8 +15,11 @@ tensorpack 0.9.7
 
 ## How To Use
 You need to make a dataset in VOC format   
+
 If it doesn't work, you need to set it up [here](https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3) and replace it with the corresponding file in the library  
-__in ./lib/datasets/pascal_voc.py to change class__  
+
+　__1. in ./lib/datasets/pascal_voc.py to change class__  
+
 `<self.path = r'D:\Faster-R-CNN\labels_13_BJOYYX.txt'>`  
 run train-ghostnet.py to train  
 run test-ghostnet.py to test  
